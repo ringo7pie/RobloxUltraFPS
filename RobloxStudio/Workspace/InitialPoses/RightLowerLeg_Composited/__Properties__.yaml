@@ -1,0 +1,21 @@
+Archivable: true
+Capabilities: ""
+ClassName: CFrameValue
+Name: RightLowerLeg_Composited
+Parent: InitialPoses
+Sandboxed: false
+Value:
+    Orientation:
+        R00: 0.6573602557182312
+        R01: 0.01620945706963539
+        R02: 0.7534022331237793
+        R10: 0.12344972789287567
+        R11: -0.9885786771774292
+        R12: -0.08644337207078934
+        R20: 0.7433960437774658
+        R21: 0.14983172714710236
+        R22: -0.6518533825874329
+    Position:
+        X: 0.48926737904548645
+        "Y": -1.0604318380355835
+        Z: -0.21431389451026917

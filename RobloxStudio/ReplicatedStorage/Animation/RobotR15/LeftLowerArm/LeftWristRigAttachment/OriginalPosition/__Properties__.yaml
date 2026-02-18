@@ -1,0 +1,10 @@
+Archivable: true
+Capabilities: ""
+ClassName: Vector3Value
+Name: OriginalPosition
+Parent: LeftWristRigAttachment
+Sandboxed: false
+Value:
+    X: -0.19591867923736572
+    "Y": -0.5295853614807129
+    Z: -0.24302074313163757

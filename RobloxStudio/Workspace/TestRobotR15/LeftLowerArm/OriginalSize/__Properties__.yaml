@@ -1,0 +1,10 @@
+Archivable: true
+Capabilities: ""
+ClassName: Vector3Value
+Name: OriginalSize
+Parent: LeftLowerArm
+Sandboxed: false
+Value:
+    X: 0.6272850036621094
+    "Y": 0.7646121978759766
+    Z: 1.07745361328125

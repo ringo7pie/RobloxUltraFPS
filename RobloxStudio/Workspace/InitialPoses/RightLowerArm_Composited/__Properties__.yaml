@@ -1,0 +1,21 @@
+Archivable: true
+Capabilities: ""
+ClassName: CFrameValue
+Name: RightLowerArm_Composited
+Parent: InitialPoses
+Sandboxed: false
+Value:
+    Orientation:
+        R00: -0.7352091073989868
+        R01: 0.6249580383300781
+        R02: -0.26247891783714294
+        R10: -0.40378186106681824
+        R11: -0.7148157954216003
+        R12: -0.5709629654884338
+        R20: -0.5444519519805908
+        R21: -0.3137929439544678
+        R22: 0.7778857350349426
+    Position:
+        X: 1.2595847845077515
+        "Y": 1.0846312046051025
+        Z: 0.12149716913700104

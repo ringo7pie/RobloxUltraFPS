@@ -1,0 +1,17 @@
+{
+    "workbench.editor.tabSizing": "big",
+    "editor.semanticHighlighting.enabled": true,
+    "luau-lsp.sourcemap.rojoProjectFile": "default.project.json",
+    "robloxLsp.color.mode": "Semantic",
+    "robloxLsp.completion.alwaysShowMethods": true,
+    "robloxLsp.completion.deprecatedMembers": true,
+    "robloxLsp.diagnostics.enable": true,
+    "robloxLsp.diagnostics.unusedVariables": true,
+    "robloxLsp.format.enable": true,
+    "robloxLsp.format.indentSize": 4,
+    "robloxLsp.format.useTabs": true,
+    "robloxLsp.hover.enable": true,
+    "robloxLsp.references.enable": true,
+    "robloxLsp.rename.enable": true,
+    "robloxLsp.workspace.enable": true
+}

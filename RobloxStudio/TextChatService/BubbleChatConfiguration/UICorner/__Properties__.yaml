@@ -1,0 +1,9 @@
+Archivable: true
+Capabilities: ""
+ClassName: UICorner
+CornerRadius:
+    Offset: 12
+    Scale: 0
+Name: UICorner
+Parent: BubbleChatConfiguration
+Sandboxed: false

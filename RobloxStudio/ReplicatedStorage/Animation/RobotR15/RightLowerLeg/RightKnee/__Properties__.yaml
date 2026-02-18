@@ -1,0 +1,57 @@
+Archivable: true
+C0:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: -0.037528008222579956
+        "Y": -0.5634491443634033
+        Z: -0.22408142685890198
+C1:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0.016125470399856567
+        "Y": 0.8543751239776611
+        Z: -0.27197304368019104
+Capabilities: ""
+ClassName: Motor6D
+CurrentAngle: 0
+DesiredAngle: 0
+Enabled: true
+MaxVelocity: 0
+Name: RightKnee
+Parent: RightLowerLeg
+Part0: RightUpperLeg
+Part1: RightLowerLeg
+Sandboxed: false
+Transform:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0
+        "Y": 0
+        Z: 0

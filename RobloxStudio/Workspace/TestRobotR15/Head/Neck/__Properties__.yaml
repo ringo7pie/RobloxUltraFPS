@@ -1,0 +1,57 @@
+Archivable: true
+C0:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: -0.0021907712798565626
+        "Y": 0.8979692459106445
+        Z: -0.43376246094703674
+C1:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: -0.002190830884501338
+        "Y": -0.3500082492828369
+        Z: -0.42363446950912476
+Capabilities: ""
+ClassName: Motor6D
+CurrentAngle: 0
+DesiredAngle: 0
+Enabled: true
+MaxVelocity: 0
+Name: Neck
+Parent: Head
+Part0: UpperTorso
+Part1: Head
+Sandboxed: false
+Transform:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0
+        "Y": 0
+        Z: 0

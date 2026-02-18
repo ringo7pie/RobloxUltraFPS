@@ -1,0 +1,23 @@
+Archivable: true
+Capabilities: ""
+ClassName: Model
+ModelStreamingMode: Enum.ModelStreamingMode.Default
+Name: TestRobotR15
+Parent: Workspace
+PrimaryPart: HumanoidRootPart
+Sandboxed: false
+WorldPivot:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: -54.585025787353516
+        "Y": 10.751570701599121
+        Z: 122.6634750366211

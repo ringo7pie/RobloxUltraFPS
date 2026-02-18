@@ -1,0 +1,21 @@
+Archivable: true
+Capabilities: ""
+ClassName: CFrameValue
+Name: LeftUpperArm_Composited
+Parent: InitialPoses
+Sandboxed: false
+Value:
+    Orientation:
+        R00: -0.7441491484642029
+        R01: -0.5777538418769836
+        R02: -0.3353246748447418
+        R10: 0.36850085854530334
+        R11: -0.7737223505973816
+        R12: 0.5153260231018066
+        R20: -0.5571798086166382
+        R21: 0.25991198420524597
+        R22: 0.7886675596237183
+    Position:
+        X: -0.5494691133499146
+        "Y": 1.9138500690460205
+        Z: -0.19947080314159393

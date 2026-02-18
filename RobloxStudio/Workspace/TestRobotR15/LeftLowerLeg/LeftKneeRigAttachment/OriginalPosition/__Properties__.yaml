@@ -1,0 +1,10 @@
+Archivable: true
+Capabilities: ""
+ClassName: Vector3Value
+Name: OriginalPosition
+Parent: LeftKneeRigAttachment
+Sandboxed: false
+Value:
+    X: 0.03775298595428467
+    "Y": 0.8543746471405029
+    Z: -0.2719748616218567

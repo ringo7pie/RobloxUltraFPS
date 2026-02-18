@@ -1,0 +1,21 @@
+Archivable: true
+Capabilities: ""
+ClassName: CFrameValue
+Name: RightFoot_Original
+Parent: InitialPoses
+Sandboxed: false
+Value:
+    Orientation:
+        R00: 0.6602082252502441
+        R01: -0.7495008707046509
+        R02: 0.04872001335024834
+        R10: -0.08643751591444016
+        R11: -0.14025470614433289
+        R12: -0.9863353371620178
+        R20: 0.7460924386978149
+        R21: 0.6469753980636597
+        R22: -0.1573822945356369
+    Position:
+        X: 0.13580869138240814
+        "Y": 1.8224378824234009
+        Z: -0.13455158472061157

@@ -1,0 +1,8 @@
+Archivable: true
+Capabilities: ""
+ClassName: KeyframeSequence
+Loop: true
+Name: Walk
+Parent: AnimSaves
+Priority: Enum.AnimationPriority.Core
+Sandboxed: false

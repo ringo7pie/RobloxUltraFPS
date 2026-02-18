@@ -1,0 +1,13 @@
+Archivable: true
+Capabilities: ""
+ClassName: UIGradient
+Color: '0 1 1 1 0 1 1 1 1 0 '
+Enabled: false
+Name: UIGradient
+Offset:
+    X: 0
+    "Y": 0
+Parent: BubbleChatConfiguration
+Rotation: 0
+Sandboxed: false
+Transparency: '0 0 0 1 0 0 '

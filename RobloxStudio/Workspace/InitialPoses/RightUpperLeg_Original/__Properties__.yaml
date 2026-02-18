@@ -1,0 +1,21 @@
+Archivable: true
+Capabilities: ""
+ClassName: CFrameValue
+Name: RightUpperLeg_Original
+Parent: InitialPoses
+Sandboxed: false
+Value:
+    Orientation:
+        R00: 0.9726589918136597
+        R01: 0.007333157118409872
+        R02: -0.23212216794490814
+        R10: -0.026947639882564545
+        R11: -0.9891862869262695
+        R12: -0.14416858553886414
+        R20: -0.23066923022270203
+        R21: 0.14648202061653137
+        R22: -0.9619432687759399
+    Position:
+        X: 0.49626487493515015
+        "Y": -0.09887338429689407
+        Z: -0.023033222183585167

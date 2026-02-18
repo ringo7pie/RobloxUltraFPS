@@ -1,0 +1,45 @@
+Archivable: true
+CFrame:
+    Orientation:
+        R00: 0.9963771104812622
+        R01: 0.04189855232834816
+        R02: -0.07400863617658615
+        R10: 0
+        R11: 0.870222270488739
+        R12: 0.49265941977500916
+        R20: 0.08504567295312881
+        R21: -0.4908745586872101
+        R22: 0.8670694231987
+    Position:
+        X: -61.28089141845703
+        "Y": 17.83933448791504
+        Z: 143.6241455078125
+CameraSubject: nil
+CameraType: Enum.CameraType.Fixed
+Capabilities: ""
+ClassName: Camera
+DiagonalFieldOfView: 123.76002502441406
+FieldOfView: 70
+FieldOfViewMode: Enum.FieldOfViewMode.Vertical
+Focus:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: -61.13287353515625
+        "Y": 16.85401153564453
+        Z: 141.88999938964844
+HeadLocked: true
+HeadScale: 1
+MaxAxisFieldOfView: 99.20728302001953
+Name: Camera
+Parent: Workspace
+Sandboxed: false
+VRTiltAndRollEnabled: false

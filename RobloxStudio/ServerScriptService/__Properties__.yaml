@@ -1,0 +1,6 @@
+Archivable: true
+Capabilities: ""
+ClassName: ServerScriptService
+Name: ServerScriptService
+Parent: Place1
+Sandboxed: false

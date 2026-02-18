@@ -1,0 +1,39 @@
+AirDensity: 0.0012000000569969416
+AirTurbulenceIntensity: 0
+AllowThirdPartySales: false
+Archivable: true
+Capabilities: ""
+ClassName: Workspace
+ClientAnimatorThrottling: Enum.ClientAnimatorThrottlingMode.Default
+CurrentCamera: Camera
+DistributedGameTime: 0
+GlobalWind:
+    X: 0
+    "Y": 0
+    Z: 0
+Gravity: 196.1999969482422
+InsertPoint:
+    X: -66.48638153076172
+    "Y": 8.492707252502441
+    Z: 125.82929229736328
+ModelStreamingMode: Enum.ModelStreamingMode.Default
+Name: Workspace
+Parent: Place1
+PrimaryPart: nil
+Retargeting: Enum.AnimatorRetargetingMode.Default
+Sandboxed: false
+WorldPivot:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0
+        "Y": 0
+        Z: 0

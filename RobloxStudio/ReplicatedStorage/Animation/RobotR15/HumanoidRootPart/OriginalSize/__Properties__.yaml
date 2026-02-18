@@ -1,0 +1,10 @@
+Archivable: true
+Capabilities: ""
+ClassName: Vector3Value
+Name: OriginalSize
+Parent: HumanoidRootPart
+Sandboxed: false
+Value:
+    X: 2
+    "Y": 2
+    Z: 1

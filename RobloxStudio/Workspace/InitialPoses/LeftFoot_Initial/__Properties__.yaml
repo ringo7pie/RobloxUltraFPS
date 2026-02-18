@@ -1,0 +1,21 @@
+Archivable: true
+Capabilities: ""
+ClassName: CFrameValue
+Name: LeftFoot_Initial
+Parent: InitialPoses
+Sandboxed: false
+Value:
+    Orientation:
+        R00: 0.6602084636688232
+        R01: 0.7495010495185852
+        R02: -0.04871450737118721
+        R10: 0.08643978089094162
+        R11: -0.14024947583675385
+        R12: -0.986335813999176
+        R20: -0.746091902256012
+        R21: 0.6469762325286865
+        R22: -0.15738056600093842
+    Position:
+        X: -0.1386493742465973
+        "Y": 1.822506308555603
+        Z: -0.1313055157661438

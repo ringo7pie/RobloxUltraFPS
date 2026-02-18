@@ -1,0 +1,10 @@
+Archivable: true
+Capabilities: ""
+ClassName: Vector3Value
+Name: OriginalPosition
+Parent: WaistCenterAttachment
+Sandboxed: false
+Value:
+    X: -3.6521483707474545e-05
+    "Y": 0.1298789083957672
+    Z: -0.15820424258708954

@@ -1,0 +1,57 @@
+Archivable: true
+C0:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: -0.4467209279537201
+        "Y": -0.25825053453445435
+        Z: -0.20666977763175964
+C1:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0.08007350564002991
+        "Y": 0.4015650749206543
+        Z: -0.04403970390558243
+Capabilities: ""
+ClassName: Motor6D
+CurrentAngle: 0
+DesiredAngle: 0
+Enabled: true
+MaxVelocity: 0
+Name: LeftHip
+Parent: LeftUpperLeg
+Part0: LowerTorso
+Part1: LeftUpperLeg
+Sandboxed: false
+Transform:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0
+        "Y": 0
+        Z: 0

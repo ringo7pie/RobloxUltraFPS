@@ -1,0 +1,11 @@
+Archivable: true
+Capabilities: ""
+ClassName: DepthOfFieldEffect
+Enabled: false
+FarIntensity: 0.10000000149011612
+FocusDistance: 0.05000000074505806
+InFocusRadius: 30
+Name: DepthOfField
+NearIntensity: 0.75
+Parent: Lighting
+Sandboxed: false

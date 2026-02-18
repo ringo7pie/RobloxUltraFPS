@@ -1,0 +1,21 @@
+Archivable: true
+Capabilities: ""
+ClassName: CFrameValue
+Name: LowerTorso_Composited
+Parent: InitialPoses
+Sandboxed: false
+Value:
+    Orientation:
+        R00: 1
+        R01: -0.00028865522472187877
+        R02: 4.0045397327048704e-05
+        R10: 0.0002913466014433652
+        R11: 0.993343710899353
+        R12: -0.11518821865320206
+        R20: -6.529161510115955e-06
+        R21: 0.11518822610378265
+        R22: 0.9933437705039978
+    Position:
+        X: 0
+        "Y": 0
+        Z: 0

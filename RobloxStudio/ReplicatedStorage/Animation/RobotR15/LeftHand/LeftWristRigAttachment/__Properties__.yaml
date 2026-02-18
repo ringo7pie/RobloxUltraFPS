@@ -1,0 +1,69 @@
+Archivable: true
+Axis:
+    X: 1
+    "Y": 0
+    Z: 0
+CFrame:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0.07003438472747803
+        "Y": 0.10712718963623047
+        Z: 0.36052921414375305
+Capabilities: ""
+ClassName: Attachment
+Name: LeftWristRigAttachment
+Orientation:
+    X: 0
+    "Y": 0
+    Z: 0
+Parent: LeftHand
+Position:
+    X: 0.07003438472747803
+    "Y": 0.10712718963623047
+    Z: 0.36052921414375305
+Sandboxed: false
+SecondaryAxis:
+    X: 0
+    "Y": 1
+    Z: 0
+Visible: false
+WorldAxis:
+    X: 1
+    "Y": 0
+    Z: 0
+WorldCFrame:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: -67.96737670898438
+        "Y": 13.855935096740723
+        Z: 125.42195892333984
+WorldOrientation:
+    X: 0
+    "Y": 0
+    Z: 0
+WorldPosition:
+    X: -67.96737670898438
+    "Y": 13.855935096740723
+    Z: 125.42195892333984
+WorldSecondaryAxis:
+    X: 0
+    "Y": 1
+    Z: 0

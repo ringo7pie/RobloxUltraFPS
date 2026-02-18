@@ -1,0 +1,10 @@
+Archivable: true
+Capabilities: ""
+ClassName: Vector3Value
+Name: OriginalPosition
+Parent: HairAttachment
+Sandboxed: false
+Value:
+    X: -0.002425755374133587
+    "Y": -0.10629963874816895
+    Z: -0.03441694378852844

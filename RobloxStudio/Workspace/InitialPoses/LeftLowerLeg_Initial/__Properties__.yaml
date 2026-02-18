@@ -1,0 +1,21 @@
+Archivable: true
+Capabilities: ""
+ClassName: CFrameValue
+Name: LeftLowerLeg_Initial
+Parent: InitialPoses
+Sandboxed: false
+Value:
+    Orientation:
+        R00: 0.4667387008666992
+        R01: 0.01911800540983677
+        R02: -0.8841886520385742
+        R10: 0.09490408003330231
+        R11: 0.9929107427597046
+        R12: 0.07156603038311005
+        R20: 0.8792885541915894
+        R21: -0.11731575429439545
+        R22: 0.4616154134273529
+    Position:
+        X: -0.03070881962776184
+        "Y": 0.9587366580963135
+        Z: 0.20899350941181183

@@ -1,0 +1,15 @@
+Archivable: true
+AutoRuns: true
+Capabilities: ""
+ClassName: TestService
+Description: ""
+ExecuteWithStudioRun: false
+IsPhysicsEnvironmentalThrottled: true
+IsSleepAllowed: true
+Name: TestService
+NumberOfPlayers: 0
+Parent: Place1
+Sandboxed: false
+SimulateSecondsLag: 0
+ThrottlePhysicsToRealtime: true
+Timeout: 10

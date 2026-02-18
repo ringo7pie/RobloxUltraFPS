@@ -1,0 +1,57 @@
+Archivable: true
+C0:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0.03356999158859253
+        "Y": -0.9188512563705444
+        Z: 0.189753457903862
+C1:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0.035928428173065186
+        "Y": 0.0077152252197265625
+        Z: 0.259488582611084
+Capabilities: ""
+ClassName: Motor6D
+CurrentAngle: 0
+DesiredAngle: 0
+Enabled: true
+MaxVelocity: 0
+Name: RightAnkle
+Parent: RightFoot
+Part0: RightLowerLeg
+Part1: RightFoot
+Sandboxed: false
+Transform:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0
+        "Y": 0
+        Z: 0

@@ -1,0 +1,7 @@
+Archivable: true
+Capabilities: ""
+ClassName: ObjectValue
+Name: RobotR15
+Parent: RBX_ANIMSAVES
+Sandboxed: false
+Value: TestRobotR15

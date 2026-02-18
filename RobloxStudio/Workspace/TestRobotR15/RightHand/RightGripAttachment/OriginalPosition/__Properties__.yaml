@@ -1,0 +1,10 @@
+Archivable: true
+Capabilities: ""
+ClassName: Vector3Value
+Name: OriginalPosition
+Parent: RightGripAttachment
+Sandboxed: false
+Value:
+    X: -0.005314826965332031
+    "Y": -0.2452537715435028
+    Z: 0.44656145572662354

@@ -1,0 +1,69 @@
+Archivable: true
+Axis:
+    X: 1
+    "Y": 0
+    Z: 0
+CFrame:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: -0.0021907712798565626
+        "Y": 0.8979692459106445
+        Z: -0.43376246094703674
+Capabilities: ""
+ClassName: Attachment
+Name: NeckRigAttachment
+Orientation:
+    X: 0
+    "Y": 0
+    Z: 0
+Parent: UpperTorso
+Position:
+    X: -0.0021907712798565626
+    "Y": 0.8979692459106445
+    Z: -0.43376246094703674
+Sandboxed: false
+SecondaryAxis:
+    X: 0
+    "Y": 1
+    Z: 0
+Visible: false
+WorldAxis:
+    X: 1
+    "Y": 0
+    Z: 0
+WorldCFrame:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: -66.48857879638672
+        "Y": 10.785269737243652
+        Z: 125.63253021240234
+WorldOrientation:
+    X: 0
+    "Y": 0
+    Z: 0
+WorldPosition:
+    X: -66.48857879638672
+    "Y": 10.785269737243652
+    Z: 125.63253021240234
+WorldSecondaryAxis:
+    X: 0
+    "Y": 1
+    Z: 0

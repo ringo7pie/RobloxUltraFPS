@@ -1,0 +1,10 @@
+Archivable: true
+Capabilities: ""
+ClassName: Vector3Value
+Name: OriginalPosition
+Parent: HatAttachment
+Sandboxed: false
+Value:
+    X: -0.0021613638382405043
+    "Y": 0.44028568267822266
+    Z: -0.5932029485702515

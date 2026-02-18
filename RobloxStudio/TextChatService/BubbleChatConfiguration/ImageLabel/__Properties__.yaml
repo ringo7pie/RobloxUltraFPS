@@ -1,0 +1,82 @@
+Active: false
+AnchorPoint:
+    X: 0
+    "Y": 0
+Archivable: true
+AutoLocalize: true
+AutomaticSize: Enum.AutomaticSize.None
+BackgroundColor3:
+    B: 1
+    G: 1
+    R: 1
+BackgroundTransparency: 0
+BorderColor3:
+    B: 0.20784315466880798
+    G: 0.16470588743686676
+    R: 0.10588236153125763
+BorderMode: Enum.BorderMode.Outline
+BorderSizePixel: 1
+Capabilities: ""
+ClassName: ImageLabel
+ClipsDescendants: false
+Image: ""
+ImageColor3:
+    B: 1
+    G: 1
+    R: 1
+ImageContent: Content
+ImageRectOffset:
+    X: 0
+    "Y": 0
+ImageRectSize:
+    X: 0
+    "Y": 0
+ImageTransparency: 0
+Interactable: true
+LayoutOrder: 0
+Name: ImageLabel
+NextSelectionDown: nil
+NextSelectionLeft: nil
+NextSelectionRight: nil
+NextSelectionUp: nil
+Parent: BubbleChatConfiguration
+Position:
+    X:
+        Offset: 0
+        Scale: 0
+    "Y":
+        Offset: 0
+        Scale: 0
+ResampleMode: Enum.ResamplerMode.Default
+RootLocalizationTable: nil
+Rotation: 0
+Sandboxed: false
+ScaleType: Enum.ScaleType.Stretch
+Selectable: false
+SelectionBehaviorDown: Enum.SelectionBehavior.Escape
+SelectionBehaviorLeft: Enum.SelectionBehavior.Escape
+SelectionBehaviorRight: Enum.SelectionBehavior.Escape
+SelectionBehaviorUp: Enum.SelectionBehavior.Escape
+SelectionGroup: false
+SelectionImageObject: nil
+SelectionOrder: 0
+Size:
+    X:
+        Offset: 100
+        Scale: 0
+    "Y":
+        Offset: 100
+        Scale: 0
+SizeConstraint: Enum.SizeConstraint.RelativeXY
+SliceCenter: 0, 0, 0, 0
+SliceScale: 1
+TileSize:
+    X:
+        Offset: 0
+        Scale: 1
+    "Y":
+        Offset: 0
+        Scale: 1
+Transparency: 0
+Visible: true
+ZIndex: 1

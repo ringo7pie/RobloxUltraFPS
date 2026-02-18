@@ -1,0 +1,10 @@
+Archivable: true
+Capabilities: ""
+ClassName: Vector3Value
+Name: OriginalPosition
+Parent: NeckRigAttachment
+Sandboxed: false
+Value:
+    X: -0.002190830884501338
+    "Y": -0.3500082492828369
+    Z: -0.42363446950912476

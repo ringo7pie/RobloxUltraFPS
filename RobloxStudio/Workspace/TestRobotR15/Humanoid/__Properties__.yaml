@@ -1,0 +1,43 @@
+JumpHeight: 7.199999809265137
+EvaluateStateMachine: true
+HealthDisplayType: Enum.HumanoidHealthDisplayType.DisplayWhenDamaged
+RequiresNeck: true
+HealthDisplayDistance: 100
+WalkSpeed: 16
+MaxSlopeAngle: 89
+Jump: false
+Sandboxed: false
+DisplayName: ''
+AutomaticScalingEnabled: true
+Health: 100
+ClassName: Humanoid
+MaxHealth: 100
+UseJumpPower: true
+AutoJumpEnabled: true
+Parent: RobotR15
+DisplayDistanceType: Enum.HumanoidDisplayDistanceType.Viewer
+BreakJointsOnDeath: true
+CameraOffset:
+  Y: 0
+  X: 0
+  Z: 0
+Archivable: true
+NameDisplayDistance: 100
+RigType: Enum.HumanoidRigType.R15
+Sit: false
+HipHeight: 3.011373996734619
+TargetPoint:
+  Y: 0
+  X: 0
+  Z: 0
+AutoRotate: true
+WalkToPart: nil
+Name: Humanoid
+PlatformStand: false
+WalkToPoint:
+  Y: 0
+  X: 0
+  Z: 0
+Capabilities: ''
+JumpPower: 50
+NameOcclusion: Enum.NameOcclusion.OccludeAll

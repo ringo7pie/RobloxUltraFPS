@@ -1,0 +1,6 @@
+Archivable: true
+Capabilities: ""
+ClassName: MaterialService
+Name: MaterialService
+Parent: Place1
+Sandboxed: false

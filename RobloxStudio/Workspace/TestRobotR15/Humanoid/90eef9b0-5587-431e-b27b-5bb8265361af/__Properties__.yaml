@@ -1,0 +1,16 @@
+WorldPivot:
+  Orientation:
+    R11: 1
+    R01: 0
+    R21: 0
+    R22: 1
+    R20: 0
+    R00: 1
+    R10: 0
+    R02: 0
+    R12: 0
+  Position:
+    Y: -6
+    X: 14
+    Z: 0
+ClassName: Folder

@@ -1,0 +1,8 @@
+Archivable: true
+Capabilities: ""
+ClassName: LocalScript
+Disabled: false
+Enabled: true
+Name: RobotR15Controller
+Parent: StarterPlayerScripts
+Sandboxed: false

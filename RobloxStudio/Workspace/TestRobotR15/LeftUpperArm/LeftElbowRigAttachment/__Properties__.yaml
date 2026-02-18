@@ -1,0 +1,69 @@
+WorldPosition:
+  Y: 14.508084297180176
+  X: -67.5869140625
+  Z: 125.77491760253906
+WorldOrientation:
+  Y: 0
+  X: 0
+  Z: 0
+CFrame:
+  Orientation:
+    R11: 1
+    R01: 0
+    R21: 0
+    R22: 1
+    R20: 0
+    R00: 1
+    R10: 0
+    R02: 0
+    R12: 0
+  Position:
+    Y: -0.5635433197021484
+    X: -0.3902888298034668
+    Z: -0.16185009479522705
+WorldSecondaryAxis:
+  Y: 1
+  X: 0
+  Z: 0
+SecondaryAxis:
+  Y: 1
+  X: 0
+  Z: 0
+WorldCFrame:
+  Orientation:
+    R11: 1
+    R01: 0
+    R21: 0
+    R22: 1
+    R20: 0
+    R00: 1
+    R10: 0
+    R02: 0
+    R12: 0
+  Position:
+    Y: 14.508084297180176
+    X: -67.5869140625
+    Z: 125.77491760253906
+Archivable: true
+Capabilities: ''
+Sandboxed: false
+ClassName: Attachment
+Visible: false
+Name: LeftElbowRigAttachment
+WorldAxis:
+  Y: 0
+  X: 1
+  Z: 0
+Orientation:
+  Y: 0
+  X: 0
+  Z: 0
+Position:
+  Y: -0.5635433197021484
+  X: -0.3902888298034668
+  Z: -0.16185009479522705
+Parent: LeftUpperArm
+Axis:
+  Y: 0
+  X: 1
+  Z: 0

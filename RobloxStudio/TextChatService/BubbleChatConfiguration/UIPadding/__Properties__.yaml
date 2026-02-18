@@ -1,0 +1,18 @@
+Archivable: true
+Capabilities: ""
+ClassName: UIPadding
+Name: UIPadding
+PaddingBottom:
+    Offset: 8
+    Scale: 0
+PaddingLeft:
+    Offset: 8
+    Scale: 0
+PaddingRight:
+    Offset: 8
+    Scale: 0
+PaddingTop:
+    Offset: 8
+    Scale: 0
+Parent: BubbleChatConfiguration
+Sandboxed: false

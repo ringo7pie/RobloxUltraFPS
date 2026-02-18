@@ -1,0 +1,57 @@
+Archivable: true
+C0:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: -0.549470067024231
+        "Y": 0.49251747131347656
+        Z: -0.436481773853302
+C1:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0.2957659959793091
+        "Y": 0.31266140937805176
+        Z: -0.45122939348220825
+Capabilities: ""
+ClassName: Motor6D
+CurrentAngle: 0
+DesiredAngle: 0
+Enabled: true
+MaxVelocity: 0
+Name: LeftShoulder
+Parent: LeftUpperArm
+Part0: UpperTorso
+Part1: LeftUpperArm
+Sandboxed: false
+Transform:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0
+        "Y": 0
+        Z: 0

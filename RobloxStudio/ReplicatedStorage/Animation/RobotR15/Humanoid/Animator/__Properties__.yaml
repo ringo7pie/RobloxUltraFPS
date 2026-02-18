@@ -1,0 +1,7 @@
+Archivable: true
+Capabilities: ""
+ClassName: Animator
+Name: Animator
+Parent: Humanoid
+PreferLodEnabled: true
+Sandboxed: false

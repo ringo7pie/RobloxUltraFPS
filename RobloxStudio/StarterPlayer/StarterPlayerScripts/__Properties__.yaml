@@ -1,0 +1,6 @@
+Archivable: true
+Capabilities: ""
+ClassName: StarterPlayerScripts
+Name: StarterPlayerScripts
+Parent: StarterPlayer
+Sandboxed: false

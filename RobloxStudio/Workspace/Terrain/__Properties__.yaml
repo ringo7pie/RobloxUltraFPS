@@ -1,0 +1,96 @@
+Anchored: true
+Archivable: true
+AssemblyAngularVelocity:
+    X: 0
+    "Y": 0
+    Z: 0
+AssemblyLinearVelocity:
+    X: 0
+    "Y": 0
+    Z: 0
+AudioCanCollide: true
+BackSurface: Enum.SurfaceType.Smooth
+BottomSurface: Enum.SurfaceType.Inlet
+BrickColor: Medium stone grey
+CFrame:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0
+        "Y": 0
+        Z: 0
+CanCollide: true
+CanQuery: true
+CanTouch: true
+Capabilities: ""
+CastShadow: true
+ClassName: Terrain
+CollisionGroup: Default
+Color:
+    B: 0.6470588445663452
+    G: 0.6352941393852234
+    R: 0.6392157077789307
+CustomPhysicalProperties: nil
+EnableFluidForces: true
+FrontSurface: Enum.SurfaceType.Smooth
+LeftSurface: Enum.SurfaceType.Smooth
+LocalTransparencyModifier: 0
+Locked: true
+Massless: false
+Material: Enum.Material.Plastic
+MaterialVariant: ""
+Name: Terrain
+Orientation:
+    X: 0
+    "Y": 0
+    Z: 0
+Parent: Workspace
+PivotOffset:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0
+        "Y": 0
+        Z: 0
+Position:
+    X: 0
+    "Y": 0
+    Z: 0
+Reflectance: 0
+RightSurface: Enum.SurfaceType.Smooth
+RootPriority: 0
+Rotation:
+    X: 0
+    "Y": 0
+    Z: 0
+Sandboxed: false
+Size:
+    X: 2044
+    "Y": 252
+    Z: 2044
+TopSurface: Enum.SurfaceType.Studs
+Transparency: 0
+WaterColor:
+    B: 0.3607843220233917
+    G: 0.3294117748737335
+    R: 0.0470588281750679
+WaterReflectance: 1
+WaterTransparency: 0.30000001192092896
+WaterWaveSize: 0.15000000596046448
+WaterWaveSpeed: 10

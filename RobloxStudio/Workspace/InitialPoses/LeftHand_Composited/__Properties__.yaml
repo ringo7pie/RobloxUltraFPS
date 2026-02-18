@@ -1,0 +1,21 @@
+Archivable: true
+Capabilities: ""
+ClassName: CFrameValue
+Name: LeftHand_Composited
+Parent: InitialPoses
+Sandboxed: false
+Value:
+    Orientation:
+        R00: 0.6358901262283325
+        R01: -0.5110790729522705
+        R02: 0.5783096551895142
+        R10: -0.6251744627952576
+        R11: -0.7804816365242004
+        R12: -0.002326785819604993
+        R20: 0.45254918932914734
+        R21: -0.3600648045539856
+        R22: -0.8158141374588013
+    Position:
+        X: -1.615991234779358
+        "Y": 0.3854966163635254
+        Z: -0.2630555331707001

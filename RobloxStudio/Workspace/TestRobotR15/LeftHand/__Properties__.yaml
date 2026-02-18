@@ -1,0 +1,90 @@
+TextureID: rbxassetid://14825121772
+Anchored: false
+RightSurface: Enum.SurfaceType.Smooth
+TextureContent: Content
+AssemblyAngularVelocity:
+  Y: 0
+  X: 0
+  Z: 0
+Capabilities: ''
+BottomSurface: Enum.SurfaceType.Smooth
+CanCollide: false
+CollisionGroup: Default
+EnableFluidForces: true
+AssemblyLinearVelocity:
+  Y: 0
+  X: 0
+  Z: 0
+Transparency: 0
+ClassName: MeshPart
+Orientation:
+  Y: 0
+  X: 0
+  Z: 0
+MaterialVariant: ''
+CanQuery: true
+Parent: RobotR15
+Massless: false
+TopSurface: Enum.SurfaceType.Smooth
+FrontSurface: Enum.SurfaceType.Smooth
+CustomPhysicalProperties: nil
+Locked: false
+Material: Enum.Material.Plastic
+Archivable: true
+Size:
+  Y: 0.8443288803100586
+  X: 0.4240531921386719
+  Z: 0.5995864868164062
+LeftSurface: Enum.SurfaceType.Smooth
+BackSurface: Enum.SurfaceType.Smooth
+LocalTransparencyModifier: 0
+AudioCanCollide: true
+BrickColor: Medium stone grey
+CFrame:
+  Orientation:
+    R11: 1
+    R01: 0
+    R21: 0
+    R22: 1
+    R20: 0
+    R00: 1
+    R10: 0
+    R02: 0
+    R12: 0
+  Position:
+    Y: 8.833105087280273
+    X: -54.17241668701172
+    Z: 125.20570373535156
+CanTouch: true
+Sandboxed: false
+Rotation:
+  Y: 0
+  X: 0
+  Z: 0
+Reflectance: 0
+Name: LeftHand
+Position:
+  Y: 8.833105087280273
+  X: -54.17241668701172
+  Z: 125.20570373535156
+Color:
+  B: 0.6470588445663452
+  G: 0.6352941393852234
+  R: 0.6392157077789307
+RootPriority: 0
+CastShadow: true
+PivotOffset:
+  Orientation:
+    R11: 1
+    R01: 1.2246468525851679e-16
+    R21: 1.2246468525851679e-16
+    R22: 1
+    R20: 1.2246468525851679e-16
+    R00: 1
+    R10: -1.2246468525851679e-16
+    R02: -1.2246468525851679e-16
+    R12: -1.2246468525851679e-16
+  Position:
+    Y: 0
+    X: 0
+    Z: 0

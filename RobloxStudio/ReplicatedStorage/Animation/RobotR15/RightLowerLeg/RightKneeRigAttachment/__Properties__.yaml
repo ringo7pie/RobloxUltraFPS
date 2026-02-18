@@ -1,0 +1,69 @@
+Archivable: true
+Axis:
+    X: 1
+    "Y": 0
+    Z: 0
+CFrame:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0.016125470399856567
+        "Y": 0.8543751239776611
+        Z: -0.27197304368019104
+Capabilities: ""
+ClassName: Attachment
+Name: RightKneeRigAttachment
+Orientation:
+    X: 0
+    "Y": 0
+    Z: 0
+Parent: RightLowerLeg
+Position:
+    X: 0.016125470399856567
+    "Y": 0.8543751239776611
+    Z: -0.27197304368019104
+Sandboxed: false
+SecondaryAxis:
+    X: 0
+    "Y": 1
+    Z: 0
+Visible: false
+WorldAxis:
+    X: 1
+    "Y": 0
+    Z: 0
+WorldCFrame:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: -65.86211395263672
+        "Y": 12.410006523132324
+        Z: 125.47069549560547
+WorldOrientation:
+    X: 0
+    "Y": 0
+    Z: 0
+WorldPosition:
+    X: -65.86211395263672
+    "Y": 12.410006523132324
+    Z: 125.47069549560547
+WorldSecondaryAxis:
+    X: 0
+    "Y": 1
+    Z: 0

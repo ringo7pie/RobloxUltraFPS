@@ -1,0 +1,37 @@
+Ambient:
+    B: 0.27450981736183167
+    G: 0.27450981736183167
+    R: 0.27450981736183167
+Archivable: true
+Brightness: 3
+Capabilities: ""
+ClassName: Lighting
+ClockTime: 14.5
+ColorShift_Bottom:
+    B: 0
+    G: 0
+    R: 0
+ColorShift_Top:
+    B: 0
+    G: 0
+    R: 0
+EnvironmentDiffuseScale: 1
+EnvironmentSpecularScale: 1
+ExposureCompensation: 0
+FogColor:
+    B: 0.7529412508010864
+    G: 0.7529412508010864
+    R: 0.7529412508010864
+FogEnd: 100000
+FogStart: 0
+GeographicLatitude: 0
+GlobalShadows: true
+Name: Lighting
+OutdoorAmbient:
+    B: 0.27450981736183167
+    G: 0.27450981736183167
+    R: 0.27450981736183167
+Parent: Place1
+Sandboxed: false
+ShadowSoftness: 0.20000000298023224
+TimeOfDay: "14:30:00"

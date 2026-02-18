@@ -1,0 +1,7 @@
+Archivable: true
+Capabilities: ""
+ClassName: ObjectValue
+Name: walk
+Parent: RBX_ANIMSAVES
+Sandboxed: false
+Value: nil

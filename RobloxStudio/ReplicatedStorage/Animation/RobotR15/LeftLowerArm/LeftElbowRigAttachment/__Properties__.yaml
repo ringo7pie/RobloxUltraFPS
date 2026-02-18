@@ -1,0 +1,69 @@
+Archivable: true
+Axis:
+    X: 1
+    "Y": 0
+    Z: 0
+CFrame:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0.18454861640930176
+        "Y": 0.12256336212158203
+        Z: 0.10994327813386917
+Capabilities: ""
+ClassName: Attachment
+Name: LeftElbowRigAttachment
+Orientation:
+    X: 0
+    "Y": 0
+    Z: 0
+Parent: LeftLowerArm
+Position:
+    X: 0.18454861640930176
+    "Y": 0.12256336212158203
+    Z: 0.10994327813386917
+Sandboxed: false
+SecondaryAxis:
+    X: 0
+    "Y": 1
+    Z: 0
+Visible: false
+WorldAxis:
+    X: 1
+    "Y": 0
+    Z: 0
+WorldCFrame:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: -67.5869140625
+        "Y": 14.508084297180176
+        Z: 125.77491760253906
+WorldOrientation:
+    X: 0
+    "Y": 0
+    Z: 0
+WorldPosition:
+    X: -67.5869140625
+    "Y": 14.508084297180176
+    Z: 125.77491760253906
+WorldSecondaryAxis:
+    X: 0
+    "Y": 1
+    Z: 0

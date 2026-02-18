@@ -1,0 +1,10 @@
+Archivable: true
+Capabilities: ""
+ClassName: Vector3Value
+Name: OriginalPosition
+Parent: FaceFrontAttachment
+Sandboxed: false
+Value:
+    X: -0.0018655498279258609
+    "Y": -0.2055373191833496
+    Z: -1.033441424369812

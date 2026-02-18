@@ -1,0 +1,9 @@
+Archivable: true
+Capabilities: ""
+ClassName: SunRaysEffect
+Enabled: true
+Intensity: 0.009999999776482582
+Name: SunRays
+Parent: Lighting
+Sandboxed: false
+Spread: 0.10000000149011612

@@ -1,0 +1,6 @@
+Archivable: true
+Capabilities: ""
+ClassName: VoiceChatService
+Name: VoiceChatService
+Parent: Place1
+Sandboxed: false

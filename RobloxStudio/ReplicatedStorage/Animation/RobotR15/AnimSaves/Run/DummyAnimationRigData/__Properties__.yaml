@@ -1,0 +1,6 @@
+Archivable: true
+Capabilities: ""
+ClassName: AnimationRigData
+Name: DummyAnimationRigData
+Parent: Run
+Sandboxed: false

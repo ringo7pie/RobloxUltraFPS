@@ -1,0 +1,7 @@
+Archivable: true
+Capabilities: ""
+ClassName: ObjectValue
+Name: AnimationWalk
+Parent: RBX_ANIMSAVES
+Sandboxed: false
+Value: nil

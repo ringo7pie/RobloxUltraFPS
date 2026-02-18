@@ -1,0 +1,12 @@
+Archivable: true
+AutomaticScaling: Enum.VRScaling.World
+AvatarGestures: false
+Capabilities: ""
+ClassName: VRService
+ControllerModels: Enum.VRControllerModelMode.Transparent
+FadeOutViewOnCollision: true
+GuiInputUserCFrame: Enum.UserCFrame.Head
+LaserPointer: Enum.VRLaserPointerMode.Pointer
+Name: VRService
+Parent: Place1
+Sandboxed: false

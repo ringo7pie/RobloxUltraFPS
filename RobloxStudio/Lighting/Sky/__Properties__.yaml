@@ -1,0 +1,30 @@
+Archivable: true
+Capabilities: ""
+CelestialBodiesShown: true
+ClassName: Sky
+MoonAngularSize: 11
+MoonTextureContent: Content
+MoonTextureId: rbxassetid://6444320592
+Name: Sky
+Parent: Lighting
+Sandboxed: false
+SkyboxBackContent: Content
+SkyboxBk: rbxassetid://6444884337
+SkyboxDn: rbxassetid://6444884785
+SkyboxDownContent: Content
+SkyboxFrontContent: Content
+SkyboxFt: rbxassetid://6444884337
+SkyboxLeftContent: Content
+SkyboxLf: rbxassetid://6444884337
+SkyboxOrientation:
+    X: 0
+    "Y": 0
+    Z: 0
+SkyboxRightContent: Content
+SkyboxRt: rbxassetid://6444884337
+SkyboxUp: rbxassetid://6412503613
+SkyboxUpContent: Content
+StarCount: 3000
+SunAngularSize: 11
+SunTextureContent: Content
+SunTextureId: rbxassetid://6196665106

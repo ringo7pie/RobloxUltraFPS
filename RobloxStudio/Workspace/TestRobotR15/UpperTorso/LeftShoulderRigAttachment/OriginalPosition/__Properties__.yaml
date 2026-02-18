@@ -1,0 +1,10 @@
+Archivable: true
+Capabilities: ""
+ClassName: Vector3Value
+Name: OriginalPosition
+Parent: LeftShoulderRigAttachment
+Sandboxed: false
+Value:
+    X: -0.549470067024231
+    "Y": 0.49251747131347656
+    Z: -0.436481773853302

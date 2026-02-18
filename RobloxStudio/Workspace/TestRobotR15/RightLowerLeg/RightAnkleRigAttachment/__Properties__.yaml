@@ -1,0 +1,69 @@
+WorldPosition:
+  Y: 5.721077919006348
+  X: -51.979679107666016
+  Z: 126.07669067382812
+WorldOrientation:
+  Y: 0
+  X: 0
+  Z: 0
+CFrame:
+  Orientation:
+    R11: 1
+    R01: 0
+    R21: 0
+    R22: 1
+    R20: 0
+    R00: 1
+    R10: 0
+    R02: 0
+    R12: 0
+  Position:
+    Y: -0.9188512563705444
+    X: 0.03356999158859253
+    Z: 0.189753457903862
+WorldSecondaryAxis:
+  Y: 1
+  X: 0
+  Z: 0
+SecondaryAxis:
+  Y: 1
+  X: 0
+  Z: 0
+WorldCFrame:
+  Orientation:
+    R11: 1
+    R01: 0
+    R21: 0
+    R22: 1
+    R20: 0
+    R00: 1
+    R10: 0
+    R02: 0
+    R12: 0
+  Position:
+    Y: 5.721077919006348
+    X: -51.979679107666016
+    Z: 126.07669067382812
+Archivable: true
+Capabilities: ''
+Sandboxed: false
+ClassName: Attachment
+Visible: false
+Name: RightAnkleRigAttachment
+WorldAxis:
+  Y: 0
+  X: 1
+  Z: 0
+Orientation:
+  Y: 0
+  X: 0
+  Z: 0
+Position:
+  Y: -0.9188512563705444
+  X: 0.03356999158859253
+  Z: 0.189753457903862
+Parent: RightLowerLeg
+Axis:
+  Y: 0
+  X: 1
+  Z: 0

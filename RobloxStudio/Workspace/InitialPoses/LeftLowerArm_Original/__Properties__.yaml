@@ -1,0 +1,21 @@
+Archivable: true
+Capabilities: ""
+ClassName: CFrameValue
+Name: LeftLowerArm_Original
+Parent: InitialPoses
+Sandboxed: false
+Value:
+    Orientation:
+        R00: 0.3982096016407013
+        R01: 0.37618839740753174
+        R02: -0.8366071581840515
+        R10: 0.2790210247039795
+        R11: 0.8191459774971008
+        R12: 0.5011457800865173
+        R20: 0.873828649520874
+        R21: -0.43299198150634766
+        R22: 0.22122731804847717
+    Position:
+        X: 0.02640855312347412
+        "Y": 1.1495230197906494
+        Z: 0.006744027137756348

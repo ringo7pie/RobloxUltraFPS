@@ -1,0 +1,89 @@
+Anchored: false
+RightSurface: Enum.SurfaceType.Smooth
+AssemblyAngularVelocity:
+  Y: 0
+  X: 0
+  Z: 0
+Capabilities: ''
+BottomSurface: Enum.SurfaceType.Inlet
+CanCollide: true
+CollisionGroup: Default
+EnableFluidForces: true
+AssemblyLinearVelocity:
+  Y: 0
+  X: 0
+  Z: 0
+Transparency: 1
+ClassName: Part
+Orientation:
+  Y: 0
+  X: 0
+  Z: 0
+MaterialVariant: ''
+CanQuery: true
+Color:
+  B: 0.6470588445663452
+  G: 0.6352941393852234
+  R: 0.6392157077789307
+Massless: false
+Sandboxed: false
+Shape: Enum.PartType.Block
+LeftSurface: Enum.SurfaceType.Smooth
+BackSurface: Enum.SurfaceType.Smooth
+Locked: false
+Material: Enum.Material.Plastic
+Archivable: true
+Size:
+  Y: 2
+  X: 2
+  Z: 1
+AudioCanCollide: true
+FrontSurface: Enum.SurfaceType.Smooth
+LocalTransparencyModifier: 0
+BrickColor: Medium stone grey
+CustomPhysicalProperties: nil
+TopSurface: Enum.SurfaceType.Studs
+CanTouch: true
+Parent: RobotR15
+Rotation:
+  Y: 0
+  X: 0
+  Z: 0
+Reflectance: 0
+Name: HumanoidRootPart
+Position:
+  Y: 14.375021934509277
+  X: -66.35138702392578
+  Z: 125.68501281738281
+CFrame:
+  Orientation:
+    R11: 1
+    R01: 0
+    R21: 0
+    R22: 1
+    R20: 0
+    R00: 1
+    R10: 0
+    R02: 0
+    R12: 0
+  Position:
+    Y: 14.375021934509277
+    X: -66.35138702392578
+    Z: 125.68501281738281
+RootPriority: 0
+CastShadow: true
+PivotOffset:
+  Orientation:
+    R11: 1
+    R01: 0
+    R21: 0
+    R22: 1
+    R20: 0
+    R00: 1
+    R10: 0
+    R02: 0
+    R12: 0
+  Position:
+    Y: 0
+    X: 0
+    Z: 0

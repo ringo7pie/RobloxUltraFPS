@@ -1,0 +1,24 @@
+Archivable: true
+CFrame:
+    Orientation:
+        R00: 0.965925395488739
+        R01: 0.10361851751804352
+        R02: 0.23717331886291504
+        R10: 0
+        R11: 0.9163627624511719
+        R12: -0.40034911036491394
+        R20: -0.25882044434547424
+        R21: 0.3867073357105255
+        R22: 0.8851379752159119
+    Position:
+        X: -0.00016689300537109375
+        "Y": -1.9073486328125e-06
+        Z: 5.7220458984375e-05
+Capabilities: ""
+ClassName: Pose
+EasingDirection: Enum.PoseEasingDirection.InOut
+EasingStyle: Enum.PoseEasingStyle.Cubic
+Name: Head
+Parent: UpperTorso
+Sandboxed: false
+Weight: 1

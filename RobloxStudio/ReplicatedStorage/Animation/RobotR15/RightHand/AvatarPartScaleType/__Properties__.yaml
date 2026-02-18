@@ -1,0 +1,7 @@
+Archivable: true
+Capabilities: ""
+ClassName: StringValue
+Name: AvatarPartScaleType
+Parent: RightHand
+Sandboxed: false
+Value: Classic

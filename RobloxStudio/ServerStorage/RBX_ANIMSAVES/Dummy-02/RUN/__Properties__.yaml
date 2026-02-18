@@ -1,0 +1,8 @@
+Archivable: true
+Capabilities: ""
+ClassName: KeyframeSequence
+Loop: true
+Name: RUN
+Parent: Dummy
+Priority: Enum.AnimationPriority.Core
+Sandboxed: false

@@ -1,0 +1,21 @@
+Archivable: true
+Capabilities: ""
+ClassName: CFrameValue
+Name: RightHand_Original
+Parent: InitialPoses
+Sandboxed: false
+Value:
+    Orientation:
+        R00: -0.47127360105514526
+        R01: 0.1082673966884613
+        R02: 0.875316858291626
+        R10: 0.09061507880687714
+        R11: 0.9931290745735168
+        R12: -0.07405206561088562
+        R20: -0.877319872379303
+        R21: 0.04441806674003601
+        R22: -0.4778462052345276
+    Position:
+        X: 0.23340797424316406
+        "Y": 0.8513453006744385
+        Z: 0.0018219351768493652

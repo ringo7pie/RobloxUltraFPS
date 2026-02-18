@@ -1,0 +1,6 @@
+Archivable: true
+Capabilities: ""
+ClassName: Folder
+Name: InitialPoses
+Parent: Workspace
+Sandboxed: false

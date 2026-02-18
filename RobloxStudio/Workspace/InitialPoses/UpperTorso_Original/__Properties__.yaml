@@ -1,0 +1,21 @@
+Archivable: true
+Capabilities: ""
+ClassName: CFrameValue
+Name: UpperTorso_Original
+Parent: InitialPoses
+Sandboxed: false
+Value:
+    Orientation:
+        R00: 0.9999995231628418
+        R01: -0.001028556958772242
+        R02: -0.0004132673784624785
+        R10: 0.0011075834045186639
+        R11: 0.9121934175491333
+        R12: 0.40975868701934814
+        R20: -4.4480388169176877e-05
+        R21: -0.40975892543792725
+        R22: 0.912194013595581
+    Position:
+        X: 0.000296104175504297
+        "Y": 1.0427719354629517
+        Z: 0.12214342504739761

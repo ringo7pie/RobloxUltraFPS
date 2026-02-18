@@ -1,0 +1,8 @@
+Archivable: true
+Capabilities: ""
+ClassName: StarterGui
+Name: StarterGui
+Parent: Place1
+Sandboxed: false
+ScreenOrientation: Enum.ScreenOrientation.Sensor
+ShowDevelopmentGui: true

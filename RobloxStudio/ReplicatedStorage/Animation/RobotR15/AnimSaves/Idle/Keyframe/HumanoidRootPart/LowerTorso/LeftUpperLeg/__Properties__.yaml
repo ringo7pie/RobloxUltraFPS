@@ -1,0 +1,24 @@
+Archivable: true
+CFrame:
+    Orientation:
+        R00: 0.9903844594955444
+        R01: 0.02868492901325226
+        R02: 0.13533583283424377
+        R10: -0.028951287269592285
+        R11: 0.9995808005332947
+        R12: 2.3283064365386963e-10
+        R20: -0.13527911901474
+        R21: -0.003918146714568138
+        R22: 0.9907997846603394
+    Position:
+        X: 7.62939453125e-06
+        "Y": -4.76837158203125e-07
+        Z: 3.814697265625e-06
+Capabilities: ""
+ClassName: Pose
+EasingDirection: Enum.PoseEasingDirection.In
+EasingStyle: Enum.PoseEasingStyle.Linear
+Name: LeftUpperLeg
+Parent: LowerTorso
+Sandboxed: false
+Weight: 1

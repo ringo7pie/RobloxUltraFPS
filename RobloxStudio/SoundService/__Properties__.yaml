@@ -1,0 +1,12 @@
+AcousticSimulationEnabled: false
+AmbientReverb: Enum.ReverbType.NoReverb
+Archivable: true
+Capabilities: ""
+ClassName: SoundService
+DistanceFactor: 3.3299999237060547
+DopplerScale: 1
+Name: SoundService
+Parent: Place1
+RespectFilteringEnabled: true
+RolloffScale: 1
+Sandboxed: false

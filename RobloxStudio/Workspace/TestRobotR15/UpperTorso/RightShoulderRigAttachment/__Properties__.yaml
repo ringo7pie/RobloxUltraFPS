@@ -1,0 +1,69 @@
+WorldPosition:
+  Y: 10.446919441223145
+  X: -51.89010238647461
+  Z: 125.63236999511719
+WorldOrientation:
+  Y: 0
+  X: 0
+  Z: 0
+CFrame:
+  Orientation:
+    R11: 1
+    R01: 0
+    R21: 0
+    R22: 1
+    R20: 0
+    R00: 1
+    R10: 0
+    R02: 0
+    R12: 0
+  Position:
+    Y: 0.47085094451904297
+    X: 0.5962871313095093
+    Z: -0.4339211583137512
+WorldSecondaryAxis:
+  Y: 1
+  X: 0
+  Z: 0
+SecondaryAxis:
+  Y: 1
+  X: 0
+  Z: 0
+WorldCFrame:
+  Orientation:
+    R11: 1
+    R01: 0
+    R21: 0
+    R22: 1
+    R20: 0
+    R00: 1
+    R10: 0
+    R02: 0
+    R12: 0
+  Position:
+    Y: 10.446919441223145
+    X: -51.89010238647461
+    Z: 125.63236999511719
+Archivable: true
+Capabilities: ''
+Sandboxed: false
+ClassName: Attachment
+Visible: false
+Name: RightShoulderRigAttachment
+WorldAxis:
+  Y: 0
+  X: 1
+  Z: 0
+Orientation:
+  Y: 0
+  X: 0
+  Z: 0
+Position:
+  Y: 0.47085094451904297
+  X: 0.5962871313095093
+  Z: -0.4339211583137512
+Parent: UpperTorso
+Axis:
+  Y: 0
+  X: 1
+  Z: 0

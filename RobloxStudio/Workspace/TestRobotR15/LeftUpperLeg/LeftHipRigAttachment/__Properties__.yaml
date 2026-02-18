@@ -1,0 +1,69 @@
+WorldPosition:
+  Y: 8.459318161010742
+  X: -52.933109283447266
+  Z: 125.79501342773438
+WorldOrientation:
+  Y: 0
+  X: 0
+  Z: 0
+CFrame:
+  Orientation:
+    R11: 1
+    R01: 0
+    R21: 0
+    R22: 1
+    R20: 0
+    R00: 1
+    R10: 0
+    R02: 0
+    R12: 0
+  Position:
+    Y: 0.4015650749206543
+    X: 0.08007350564002991
+    Z: -0.04403970390558243
+WorldSecondaryAxis:
+  Y: 1
+  X: 0
+  Z: 0
+SecondaryAxis:
+  Y: 1
+  X: 0
+  Z: 0
+WorldCFrame:
+  Orientation:
+    R11: 1
+    R01: 0
+    R21: 0
+    R22: 1
+    R20: 0
+    R00: 1
+    R10: 0
+    R02: 0
+    R12: 0
+  Position:
+    Y: 8.459318161010742
+    X: -52.933109283447266
+    Z: 125.79501342773438
+Archivable: true
+Capabilities: ''
+Sandboxed: false
+ClassName: Attachment
+Visible: false
+Name: LeftHipRigAttachment
+WorldAxis:
+  Y: 0
+  X: 1
+  Z: 0
+Orientation:
+  Y: 0
+  X: 0
+  Z: 0
+Position:
+  Y: 0.4015650749206543
+  X: 0.08007350564002991
+  Z: -0.04403970390558243
+Parent: LeftUpperLeg
+Axis:
+  Y: 0
+  X: 1
+  Z: 0

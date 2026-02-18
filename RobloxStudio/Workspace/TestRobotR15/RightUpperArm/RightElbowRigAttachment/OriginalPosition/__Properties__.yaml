@@ -1,0 +1,10 @@
+Archivable: true
+Capabilities: ""
+ClassName: Vector3Value
+Name: OriginalPosition
+Parent: RightElbowRigAttachment
+Sandboxed: false
+Value:
+    X: 0.4143468141555786
+    "Y": -0.5165572166442871
+    Z: -0.1302614063024521

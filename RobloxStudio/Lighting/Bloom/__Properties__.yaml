@@ -1,0 +1,10 @@
+Archivable: true
+Capabilities: ""
+ClassName: BloomEffect
+Enabled: true
+Intensity: 1
+Name: Bloom
+Parent: Lighting
+Sandboxed: false
+Size: 24
+Threshold: 2

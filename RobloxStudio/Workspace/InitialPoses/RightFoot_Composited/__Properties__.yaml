@@ -1,0 +1,21 @@
+Archivable: true
+Capabilities: ""
+ClassName: CFrameValue
+Name: RightFoot_Composited
+Parent: InitialPoses
+Sandboxed: false
+Value:
+    Orientation:
+        R00: 0.994701087474823
+        R01: -0.007532890420407057
+        R02: -0.10253351181745529
+        R10: 0.10245805978775024
+        R11: -0.009799611754715443
+        R12: 0.9946891069412231
+        R20: -0.008497672155499458
+        R21: -0.9999236464500427
+        R22: -0.008975878357887268
+    Position:
+        X: 0.5067119002342224
+        "Y": -2.833658218383789
+        Z: 0.24741260707378387

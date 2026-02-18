@@ -1,0 +1,69 @@
+Archivable: true
+Axis:
+    X: 1
+    "Y": 0
+    Z: 0
+CFrame:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: -9.5367431640625e-07
+        "Y": -0.16283303499221802
+        Z: -0.17239761352539062
+Capabilities: ""
+ClassName: Attachment
+Name: RootRigAttachment
+Orientation:
+    X: 0
+    "Y": 0
+    Z: 0
+Parent: LowerTorso
+Position:
+    X: -9.5367431640625e-07
+    "Y": -0.16283303499221802
+    Z: -0.17239761352539062
+Sandboxed: false
+SecondaryAxis:
+    X: 0
+    "Y": 1
+    Z: 0
+Visible: false
+WorldAxis:
+    X: 1
+    "Y": 0
+    Z: 0
+WorldCFrame:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: -66.35138702392578
+        "Y": 13.470438957214355
+        Z: 125.68501281738281
+WorldOrientation:
+    X: 0
+    "Y": 0
+    Z: 0
+WorldPosition:
+    X: -66.35138702392578
+    "Y": 13.470438957214355
+    Z: 125.68501281738281
+WorldSecondaryAxis:
+    X: 0
+    "Y": 1
+    Z: 0

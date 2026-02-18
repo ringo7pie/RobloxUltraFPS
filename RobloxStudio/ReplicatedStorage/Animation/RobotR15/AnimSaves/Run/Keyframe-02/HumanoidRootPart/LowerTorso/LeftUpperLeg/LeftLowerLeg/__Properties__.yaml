@@ -1,0 +1,24 @@
+Archivable: true
+CFrame:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 0.8660280704498291
+        R12: 0.4999954104423523
+        R20: 0
+        R21: -0.4999954104423523
+        R22: 0.8660280704498291
+    Position:
+        X: 0
+        "Y": 1.8730759620666504e-05
+        Z: 4.313141107559204e-05
+Capabilities: ""
+ClassName: Pose
+EasingDirection: Enum.PoseEasingDirection.InOut
+EasingStyle: Enum.PoseEasingStyle.Cubic
+Name: LeftLowerLeg
+Parent: LeftUpperLeg
+Sandboxed: false
+Weight: 1

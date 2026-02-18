@@ -1,0 +1,69 @@
+Archivable: true
+Axis:
+    X: 1
+    "Y": 0
+    Z: 0
+CFrame:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0.49629148840904236
+        "Y": -0.25825053453445435
+        Z: -0.20666980743408203
+Capabilities: ""
+ClassName: Attachment
+Name: RightHipRigAttachment
+Orientation:
+    X: 0
+    "Y": 0
+    Z: 0
+Parent: LowerTorso
+Position:
+    X: 0.49629148840904236
+    "Y": -0.25825053453445435
+    Z: -0.20666980743408203
+Sandboxed: false
+SecondaryAxis:
+    X: 0
+    "Y": 1
+    Z: 0
+Visible: false
+WorldAxis:
+    X: 1
+    "Y": 0
+    Z: 0
+WorldCFrame:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: -65.85509490966797
+        "Y": 13.375021934509277
+        Z: 125.6507339477539
+WorldOrientation:
+    X: 0
+    "Y": 0
+    Z: 0
+WorldPosition:
+    X: -65.85509490966797
+    "Y": 13.375021934509277
+    Z: 125.6507339477539
+WorldSecondaryAxis:
+    X: 0
+    "Y": 1
+    Z: 0

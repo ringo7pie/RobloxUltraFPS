@@ -1,0 +1,7 @@
+Archivable: true
+Capabilities: ""
+ClassName: ObjectValue
+Name: AnimSaves
+Parent: RobotR15
+Sandboxed: false
+Value: RobotR15

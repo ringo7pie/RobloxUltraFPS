@@ -1,0 +1,7 @@
+Archivable: true
+Capabilities: ""
+ClassName: NumberValue
+Name: BodyWidthScale
+Parent: Humanoid
+Sandboxed: false
+Value: 1

@@ -1,0 +1,31 @@
+AdorneeName: HumanoidRootPart
+Archivable: true
+BackgroundColor3:
+    B: 0.9803921580314636
+    G: 0.9803921580314636
+    R: 0.9803921580314636
+BackgroundTransparency: 0.1
+BubbleDuration: 15
+BubblesSpacing: 6
+Capabilities: ""
+ClassName: BubbleChatConfiguration
+Enabled: true
+Font: Enum.Font.BuilderSansMedium
+FontFace: Font { Family = rbxasset://fonts/families/BuilderSans.json, Weight = Medium, Style = Normal }
+LocalPlayerStudsOffset:
+    X: 0
+    "Y": 0
+    Z: 0
+MaxBubbles: 3
+MaxDistance: 100
+MinimizeDistance: 40
+Name: BubbleChatConfiguration
+Parent: TextChatService
+Sandboxed: false
+TailVisible: true
+TextColor3:
+    B: 0.239215686917305
+    G: 0.23137255012989044
+    R: 0.2235294133424759
+TextSize: 20
+VerticalStudsOffset: 0

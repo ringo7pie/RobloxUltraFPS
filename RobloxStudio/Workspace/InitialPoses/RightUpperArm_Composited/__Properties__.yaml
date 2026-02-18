@@ -1,0 +1,21 @@
+Archivable: true
+Capabilities: ""
+ClassName: CFrameValue
+Name: RightUpperArm_Composited
+Parent: InitialPoses
+Sandboxed: false
+Value:
+    Orientation:
+        R00: -0.7256456613540649
+        R01: 0.6091771721839905
+        R02: 0.3199087977409363
+        R10: -0.3959059715270996
+        R11: -0.7499185800552368
+        R12: 0.5299817323684692
+        R20: 0.5627583265304565
+        R21: 0.2579251229763031
+        R22: 0.7853519320487976
+    Position:
+        X: 0.5962880849838257
+        "Y": 1.892183542251587
+        Z: -0.19691018760204315

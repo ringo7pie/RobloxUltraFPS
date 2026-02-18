@@ -1,0 +1,8 @@
+Archivable: true
+Capabilities: ""
+ClassName: Script
+Disabled: false
+Enabled: true
+Name: RobotR15ServerController
+Parent: ServerScriptService
+Sandboxed: false

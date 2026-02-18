@@ -1,0 +1,8 @@
+Archivable: true
+Capabilities: ""
+CharacterAutoLoads: true
+ClassName: Players
+Name: Players
+Parent: Place1
+RespawnTime: 3
+Sandboxed: false

@@ -1,0 +1,21 @@
+Archivable: true
+Capabilities: ""
+ClassName: CFrameValue
+Name: RightHand_Composited
+Parent: InitialPoses
+Sandboxed: false
+Value:
+    Orientation:
+        R00: 0.6333931684494019
+        R01: 0.5294058918952942
+        R02: -0.5643957257270813
+        R10: 0.6264357566833496
+        R11: -0.7789816856384277
+        R12: -0.027671003714203835
+        R20: -0.4543030858039856
+        R21: -0.3360309898853302
+        R22: -0.8250405788421631
+    Position:
+        X: 1.6195578575134277
+        "Y": 0.3807900846004486
+        Z: -0.27131107449531555

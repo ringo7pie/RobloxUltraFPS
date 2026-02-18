@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.editor.customLabels.enabled": true,
+		"workbench.editor.customLabels.patterns": {
+			"**/__Source__.luau": "${dirname}",
+			"**/__Source__.lua": "${dirname}"
+		}
+	}
+}

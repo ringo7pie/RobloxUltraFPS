@@ -1,0 +1,94 @@
+AllowTeamChangeOnTouch: false
+Anchored: true
+Archivable: true
+AssemblyAngularVelocity:
+    X: 0
+    "Y": 0
+    Z: 0
+AssemblyLinearVelocity:
+    X: 0
+    "Y": 0
+    Z: 0
+AudioCanCollide: true
+BackSurface: Enum.SurfaceType.Smooth
+BottomSurface: Enum.SurfaceType.Smooth
+BrickColor: Medium stone grey
+CFrame:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0
+        "Y": 5
+        Z: 0
+CanCollide: true
+CanQuery: true
+CanTouch: true
+Capabilities: ""
+CastShadow: true
+ClassName: SpawnLocation
+CollisionGroup: Default
+Color:
+    B: 0.6470588445663452
+    G: 0.6352941393852234
+    R: 0.6392157077789307
+CustomPhysicalProperties: nil
+Duration: 0
+EnableFluidForces: true
+Enabled: true
+FrontSurface: Enum.SurfaceType.Smooth
+LeftSurface: Enum.SurfaceType.Smooth
+LocalTransparencyModifier: 0
+Locked: false
+Massless: false
+Material: Enum.Material.Plastic
+MaterialVariant: ""
+Name: SpawnLocation
+Neutral: true
+Orientation:
+    X: 0
+    "Y": 0
+    Z: 0
+Parent: Workspace
+PivotOffset:
+    Orientation:
+        R00: 1
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 1
+        R12: 0
+        R20: 0
+        R21: 0
+        R22: 1
+    Position:
+        X: 0
+        "Y": 0
+        Z: 0
+Position:
+    X: 0
+    "Y": 5
+    Z: 0
+Reflectance: 0
+RightSurface: Enum.SurfaceType.Smooth
+RootPriority: 0
+Rotation:
+    X: 0
+    "Y": 0
+    Z: 0
+Sandboxed: false
+Shape: Enum.PartType.Block
+Size:
+    X: 12
+    "Y": 1
+    Z: 12
+TeamColor: Medium stone grey
+TopSurface: Enum.SurfaceType.Smooth
+Transparency: 0

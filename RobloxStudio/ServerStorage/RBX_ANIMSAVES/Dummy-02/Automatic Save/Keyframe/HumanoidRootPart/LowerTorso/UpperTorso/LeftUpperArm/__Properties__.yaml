@@ -1,0 +1,24 @@
+Archivable: true
+CFrame:
+    Orientation:
+        R00: 0.9999998211860657
+        R01: 0
+        R02: 0
+        R10: 0
+        R11: 0.8145606517791748
+        R12: 0.5800783038139343
+        R20: 0
+        R21: -0.5800783038139343
+        R22: 0.8145606517791748
+    Position:
+        X: 9.5367431640625e-07
+        "Y": -9.5367431640625e-07
+        Z: -4.76837158203125e-07
+Capabilities: ""
+ClassName: Pose
+EasingDirection: Enum.PoseEasingDirection.In
+EasingStyle: Enum.PoseEasingStyle.Linear
+Name: LeftUpperArm
+Parent: UpperTorso
+Sandboxed: false
+Weight: 1
